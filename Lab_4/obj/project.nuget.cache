@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M0gg9/os8VA=",
+  "success": true,
+  "projectFilePath": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Lab_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\aqua-core\\5.4.1\\aqua-core.5.4.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\aqua-core-newtonsoft-json\\5.4.1\\aqua-core-newtonsoft-json.5.4.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.web.webview2\\1.0.2849.39\\microsoft.web.webview2.1.0.2849.39.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\remote.linq\\7.2.1\\remote.linq.7.2.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\remote.linq.newtonsoft.json\\7.2.1\\remote.linq.newtonsoft.json.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
