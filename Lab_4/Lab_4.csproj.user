@@ -16,5 +16,8 @@
     <Compile Update="Bai_4.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Bai3_NangCao.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

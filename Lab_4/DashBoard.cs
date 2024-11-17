@@ -27,8 +27,8 @@ namespace Lab_4
 
         private void button_Bai4_Click(object sender, EventArgs e)
         {
-            Bai_4 bai_4 = new Bai_4();
-            bai_4.Show();
+            Bai3_NangCao bai3_NangCao = new Bai3_NangCao();
+            bai3_NangCao.Show();
         }
     }
 }

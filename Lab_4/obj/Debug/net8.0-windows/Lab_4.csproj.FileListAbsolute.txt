@@ -34,3 +34,5 @@ D:\UIT_2.1\LapTrinhMang\ThucHanh\Lab_4\Lab_4\bin\Debug\net8.0-windows\Aqua.Newto
 D:\UIT_2.1\LapTrinhMang\ThucHanh\Lab_4\Lab_4\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 D:\UIT_2.1\LapTrinhMang\ThucHanh\Lab_4\Lab_4\bin\Debug\net8.0-windows\Remote.Linq.dll
 D:\UIT_2.1\LapTrinhMang\ThucHanh\Lab_4\Lab_4\bin\Debug\net8.0-windows\Remote.Linq.Newtonsoft.Json.dll
+D:\UIT_2.1\LapTrinhMang\ThucHanh\Lab_4\Lab_4\obj\Debug\net8.0-windows\Lab_4.sourcelink.json
+D:\UIT_2.1\LapTrinhMang\ThucHanh\Lab_4\Lab_4\obj\Debug\net8.0-windows\Lab_4.Bai3_NangCao.resources

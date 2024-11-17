@@ -53,8 +53,18 @@ namespace Lab_4
         {
             string url = textBox_Url.Text;
             string json = await GetAsync(url);
-            var post = JsonConvert.DeserializeObject<List<Post>>(json);
-            string formatText = FormatPosts(post);
+            JToken token = JToken.Parse(json);
+            List<Post> posts;
+            if (token is JArray)
+            {
+                posts = JsonConvert.DeserializeObject<List<Post>>(json);
+            }
+            else
+            {
+                Post post = JsonConvert.DeserializeObject<Post>(json);
+                posts = new List<Post> { post };
+            }
+            string formatText = FormatPosts(posts);
             richTextBox_Data.Text = formatText;
         }
     }

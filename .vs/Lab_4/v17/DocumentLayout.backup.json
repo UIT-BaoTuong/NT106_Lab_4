@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab_4\\lab_4\\bai_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\bai_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab_4\\lab_4\\bai3_nangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\bai3_nangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\lab_4\\bai_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\bai_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\lab_4\\bai3_nangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\bai3_nangcao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab_4\\lab_4\\bai3_nangcao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\bai3_nangcao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|d:\\uit_2.1\\laptrinhmang\\thuchanh\\lab_4\\lab_4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\lab_4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\lab_4\\bai_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B117984-3027-4CAF-898E-4404DBD2EBC6}|Lab_4\\Lab_4.csproj|solutionrelative:lab_4\\bai_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3_NangCao.Designer.cs",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai3_NangCao.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Bai3_NangCao.Designer.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai3_NangCao.Designer.cs",
+              "RelativeToolTip": "Lab_4\\Bai3_NangCao.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:33:48.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai3_NangCao.cs",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai3_NangCao.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Bai3_NangCao.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai3_NangCao.cs",
+              "RelativeToolTip": "Lab_4\\Bai3_NangCao.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAArwDkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:32:42.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai_3.cs",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai_3.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Bai_3.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai_3.cs*",
+              "RelativeToolTip": "Lab_4\\Bai_3.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAArwEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:25:25.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Lab_4\\DashBoard.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\DashBoard.cs",
+              "RelativeToolTip": "Lab_4\\DashBoard.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:18:58.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai3_NangCao.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai3_NangCao.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Bai3_NangCao.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai3_NangCao.cs [Design]",
+              "RelativeToolTip": "Lab_4\\Bai3_NangCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:32:13.569Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\DashBoard.cs",
+              "RelativeDocumentMoniker": "Lab_4\\DashBoard.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\DashBoard.cs [Design]",
+              "RelativeToolTip": "Lab_4\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:18:30.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai_3.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai_3.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Bai_3.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai_3.cs [Design]*",
+              "RelativeToolTip": "Lab_4\\Bai_3.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:17:45.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai_4.cs [Design]",
+              "DocumentMoniker": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai_4.cs",
+              "RelativeDocumentMoniker": "Lab_4\\Bai_4.cs",
+              "ToolTip": "D:\\UIT_2.1\\LapTrinhMang\\ThucHanh\\Lab_4\\Lab_4\\Bai_4.cs [Design]",
+              "RelativeToolTip": "Lab_4\\Bai_4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:17:41.843Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -40,7 +40,7 @@
             button_Bai4.Name = "button_Bai4";
             button_Bai4.Size = new Size(170, 77);
             button_Bai4.TabIndex = 1;
-            button_Bai4.Text = "Bài 4";
+            button_Bai4.Text = "Bài 3 Nâng Cao";
             button_Bai4.UseVisualStyleBackColor = true;
             button_Bai4.Click += button_Bai4_Click;
             // 
